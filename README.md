@@ -42,7 +42,7 @@ Use **/traffic_waypoint** to change the waypoint target velocities before publis
 
 # Project output video
 
-[![System Integration project output video](./Capture1.PNG)](SystemIntegration Udacity Project output video"System Integration project output video Clip for  - Click to Watch!")
+[![System Integration project output video](imgs/Capture1.PNG)](https://www.youtube.com/watch?v=MXXuyJbMu2k"System Integration project output video Clip - Click to Watch!")
 
 
 # Installations

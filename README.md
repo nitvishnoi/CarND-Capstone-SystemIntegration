@@ -40,6 +40,11 @@ Once you have correctly identified the traffic light and determined its position
 Use **/traffic_waypoint** to change the waypoint target velocities before publishing to **/final_waypoints**. Your car should now stop at red traffic lights and move when they are green.
 
 
+# Project output video
+
+[![System Integration project output video](./Capture1.PNG)](SystemIntegration Udacity Project output video"System Integration project output video Clip for  - Click to Watch!")
+
+
 # Installations
 Please use **one** of the two installation options, either native **or** docker installation.
 

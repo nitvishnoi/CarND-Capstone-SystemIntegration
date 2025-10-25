@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "CarND-Capstone-SystemIntegration for Autonomous driving"
+title: "CarND-Capstone-SystemIntegration"
+version: 1.0.0
+doi: 10.5281/zenodo.1234567   # optional if linked to Zenodo
+date-released: 2025-10-25
+authors:
+  - family-names: Vishnoi
+    given-names: Nitin
+    affiliation: ""
+    orcid: "https://orcid.org/0009-0000-5871-9307"
+repository-code: "https://github.com/nitvishnoi/CarND-Capstone-SystemIntegration/"
+keywords:
+  - AI
+  - Embedded Systems
+  - Autonomous Driving
+license: MIT
+abstract: "This repository contains the source code and datasets for [CarND-Capstone-SystemIntegration]."
